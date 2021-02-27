@@ -4,5 +4,5 @@ PH1HS - Phase 1 Habitat Surveys
   I've uses the JNCC Phase 1 Habitat Survey Handbook and RGB colours used in the ArcMap layer classifications published in the 
   JNCC website (http://jncc.defra.gov.uk/PDF/pub10_handbookforphase1habitatsurvey.pdf)
 
-  Each of these style files was created for QGIS v3.4 and above. 
+  The original layer based style sheet was converted to a Style Manager format, so that all styles could be reused in multiple projects with different attribute formatting, and allows users to only select the colours that apply to their project - rather than import the whole lot for each project.
 
